@@ -1,0 +1,10 @@
+{
+  "pages": [
+    "pages/index/index"
+  ],
+  "window": {
+    "navigationBarTitleText": "首页",
+    "navigationStyle": "default",
+    "backgroundTextStyle": "light"
+  }
+}
