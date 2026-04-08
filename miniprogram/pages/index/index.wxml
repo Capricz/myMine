@@ -1,3 +1,0 @@
-<view class="container">
-  <button class="btn" bindtap="onClickHello">点击显示 hello 良之雷</button>
-</view>
